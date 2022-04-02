@@ -81,6 +81,122 @@
                     "priority": 3
                 }
             ]
+        },
+        
+        "drapeau_tour": {
+            "priority": 1,
+            "pixels": [
+                {
+                    "x": 151,
+                    "y": 354,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 151,
+                    "y": 355,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 151,
+                    "y": 356,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 152,
+                    "y": 354,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 152,
+                    "y": 355,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 152,
+                    "y": 356,
+                    "color": 12,
+                    "priority": 3
+                },
+                
+                {
+                    "x": 153,
+                    "y": 354,
+                    "color": 31,
+                    "priority": 3
+                },
+                {
+                    "x": 153,
+                    "y": 355,
+                    "color": 31,
+                    "priority": 3
+                },
+                {
+                    "x": 153,
+                    "y": 356,
+                    "color": 31,
+                    "priority": 3
+                },
+                {
+                    "x": 154,
+                    "y": 354,
+                    "color": 31,
+                    "priority": 3
+                },
+                {
+                    "x": 154,
+                    "y": 355,
+                    "color": 31,
+                    "priority": 3
+                },
+                {
+                    "x": 154,
+                    "y": 356,
+                    "color": 31,
+                    "priority": 3
+                },
+                
+                {
+                    "x": 155,
+                    "y": 354,
+                    "color": 2,
+                    "priority": 3
+                },
+                {
+                    "x": 155,
+                    "y": 355,
+                    "color": 2,
+                    "priority": 3
+                },
+                {
+                    "x": 155,
+                    "y": 356,
+                    "color": 2,
+                    "priority": 3
+                },
+                {
+                    "x": 156,
+                    "y": 354,
+                    "color": 2,
+                    "priority": 3
+                },
+                {
+                    "x": 156,
+                    "y": 355,
+                    "color": 2,
+                    "priority": 3
+                },
+                {
+                    "x": 156,
+                    "y": 356,
+                    "color": 2,
+                    "priority": 3
+                }
+            ]
         }
     },
     "priorities": {
