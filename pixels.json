@@ -5,110 +5,26 @@
             "priority": 3,
             "pixels": [
                 {
-                    "x": 125,
-                    "y": 266,
+                    "x": 146,
+                    "y": 488,
                     "color": 12,
                     "priority": 3
                 },
                 {
-                    "x": 126,
-                    "y": 266,
+                    "x": 146,
+                    "y": 489,
                     "color": 12,
                     "priority": 3
                 },
                 {
-                    "x": 127,
-                    "y": 266,
+                    "x": 146,
+                    "y": 490,
                     "color": 12,
                     "priority": 3
                 },
                 {
-                    "x": 128,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 129,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 130,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 131,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 131,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 132,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 133,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 134,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 135,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 136,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 137,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 138,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 139,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 140,
-                    "y": 266,
-                    "color": 12,
-                    "priority": 3
-                },
-                {
-                    "x": 141,
-                    "y": 266,
+                    "x": 146,
+                    "y": 491,
                     "color": 12,
                     "priority": 3
                 }
