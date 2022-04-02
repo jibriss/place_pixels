@@ -5,6 +5,96 @@
             "priority": 3,
             "pixels": [
                 {
+                    "x": 125,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 126,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 127,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 128,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 129,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 130,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 131,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 131,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 132,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 133,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 134,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 135,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 136,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 137,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
+                    "x": 138,
+                    "y": 272,
+                    "color": 12,
+                    "priority": 3
+                },
+                {
                     "x": 139,
                     "y": 272,
                     "color": 12,
