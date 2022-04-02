@@ -27,6 +27,31 @@
                     "y": 491,
                     "color": 12,
                     "priority": 3
+                },
+                
+                {
+                    "x": 148,
+                    "y": 488,
+                    "color": 2,
+                    "priority": 3
+                },
+                {
+                    "x": 148,
+                    "y": 489,
+                    "color": 2,
+                    "priority": 3
+                },
+                {
+                    "x": 148,
+                    "y": 490,
+                    "color": 2,
+                    "priority": 3
+                },
+                {
+                    "x": 148,
+                    "y": 491,
+                    "color": 2,
+                    "priority": 3
                 }
             ]
         }
